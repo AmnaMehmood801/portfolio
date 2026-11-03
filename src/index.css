@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+html{
+  scroll-behavior:smooth;
+}
+
+body{
+
+  font-family:Inter,sans-serif;
+
+  overflow-x:hidden;
+
+  background:#ffffff;
+}
+
+button{
+  cursor:pointer;
+}
+
+.container-custom{
+
+  width:90%;
+
+  max-width:1280px;
+
+  margin-inline:auto;
+}
